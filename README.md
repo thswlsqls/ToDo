@@ -1,3 +1,3 @@
-# Kawai To Do
+# ToDo
 
-Kawai To Do App made with React Native
+javascript app made with React Native providing todolist function
